@@ -80,11 +80,8 @@ const propiedades_venta = [
         pets: true
     }
 ]
-    
-propiedades = propiedades_venta;
 
 let html = ''
-
 
 for (element of propiedades_venta) {
     html += `

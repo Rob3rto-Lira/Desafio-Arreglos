@@ -81,11 +81,8 @@ const propiedades_alquiler = [
 }
         
 ]
-    
-propiedades = propiedades_alquiler;
 
 let html = ''
-
 
 for (element of propiedades_alquiler) {
     html += `
